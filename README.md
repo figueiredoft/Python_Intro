@@ -1,3 +1,1 @@
-#Introdução sobre a linguagem Python
-
-Aula de conceitos básicos de python :D
+Aula com conceitos bemmmm básicos de python :D
